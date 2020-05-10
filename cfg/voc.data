@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/promise/darknet/scripts/VOCdevkit/VOC2007/train.txt
+valid  = /home/promise/darknet/scripts/VOCdevkit/VOC2007/val.txt
+names = data/piglet.names
+backup = backup
+

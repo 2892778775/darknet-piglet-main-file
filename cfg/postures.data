@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/promise/darknet/scripts/VOCdevkit/VOC2019/postures_train.txt
+valid  = /home/promise/darknet/scripts/VOCdevkit/VOC2019/postures_val.txt
+names = data/VOC2019.names
+backup = backup
+
